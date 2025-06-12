@@ -12,9 +12,9 @@ just a silly bash scripts for my site, these scripts aren't great, they're just 
  [Tutorial]
 
 To access the articles, use the following command.
-`[~]$ curl -sLk bezumiya.city/bezu.txt | p=1 sh`
+`[~]$ curl -sLk bezumiya.neocities.org/bezu.txt | p=1 sh`
 
 the variable p indicates the pages from 1 to 3
 to make it en-br set the variable br=True
 
-`[~]$ curl -sLk bezumiya.city/bezu.txt | br=True p=1 sh`
+`[~]$ curl -sLk bezumiya.neocities.org/bezu.txt | br=True p=1 sh`
